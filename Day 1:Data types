@@ -1,0 +1,11 @@
+i = 4
+d = 4.0
+s = 'HackerRank '
+y=int(input())
+k=float(input())
+l=str(input())
+sum=int(i+y)
+double=d+k
+print(sum)
+print(double)
+print("HackerRank"+"",l)
