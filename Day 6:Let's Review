@@ -1,0 +1,4 @@
+number=int(input())
+for i in range(number):
+    name=str(input())
+    print(name[::2],name[1::2])
