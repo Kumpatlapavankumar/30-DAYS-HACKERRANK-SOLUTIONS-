@@ -1,4 +1,3 @@
-#!/bin/python3
 
 import math
 import os
@@ -16,5 +15,6 @@ while number > 0:
             max = ans
     else:
         ans = 0
+#using // to calculate integer only with out floating 
     number=number//2
 print(max)
